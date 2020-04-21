@@ -46,7 +46,7 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + 4.8 Vibración libre y forzada. Matriz de transición de estado. 
   + 4.9 Métodos numéricos para sistemas con múltiples grados de libertad.
 
-### Ambiente de desarrollo y manejo de datos:
+### Ambiente de desarrollo de clases y manejo de datos de vibraciones:
   + **Basado en IPython y Jupyter.** Se desarrollarán las clases y las actividades prácticas en formato Jupyter notebook. Los trabajos para evaluación se entregarán en el mismo formato. Se contestarán las preguntas teóricas y se resolverán los problemas prácticos bajo este mismo ambiente. Se manipularán datos de vibraciones y se visualizarán sus representaciones usando Jupyter y librerías de Python tales como matplotlib, numpy, pandas y scipy.
   
 ### Evaluaciones parciales:
