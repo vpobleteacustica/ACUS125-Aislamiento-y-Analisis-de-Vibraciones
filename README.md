@@ -57,4 +57,13 @@ Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde resp
   + **Tarea 3 (T3) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
 Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 3.
   + **Tarea 4 (T4) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
-Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 4.   
+Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 4.
+
+### Requisitos de aprobación:
+  + Cada unidad se evaluará con una tarea a resolver en grupos de máximo 2 estudiantes.
+  + Los estudiantes tendrán una semana determinada para completar y entregar la tarea.
+  + La entrega de la tarea se hace mediante correo electrónico a vpoblete@uach.cl
+  + Luego de cumplida la fecha de entrega, se descontará un punto por día de atraso.
+  + El promedio de las evaluaciones parciales se calcula como nota_final = T1 0.25 + T2 0.25 + T3 0.25 + T4 0.25.
+  + El estudiante aprobará el curso si nota_final >= 4.0
+
