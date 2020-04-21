@@ -66,4 +66,12 @@ Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde resp
   + Luego de cumplida la fecha de entrega, se descontará un punto por día de atraso.
   + El promedio de las evaluaciones parciales se calcula como nota_final = T1 0.25 + T2 0.25 + T3 0.25 + T4 0.25.
   + El estudiante aprobará el curso si nota_final >= 4.0
+  
+### Bibliografía:  
+  + Libro principal:
+>> - Meirovitch, L., Fundamentals of Vibrations, McGraw-Hill, Boston, 2001. 
+  + Libros complementarios:
+>> - Undurraga, J., Venegas, R.  Introducción a la resolución numérica de ecuaciones diferenciales. Editorial Universidad Tecnologica de Chile. Dic. 2005. https://www.researchgate.net/publication/265258354
+>> - Tongue, B. H., Principles of Vibration, Oxford Univ. Press, Oxford, 1996.
+>> - Shabana, A. A., Vibration of Discrete and Continuous Systems, Springer, New York, 1997.  
 
