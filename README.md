@@ -26,3 +26,11 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + 2.4 Resonancias. 
   + 2.5 Transmisibilidad y aislamiento de vibraciones (incluye experiencia práctica).
   + 2.6 Amortiguamiento y frecuencia natural.
+  
+* **Unidad 3:** Excitación no sinusoidal.
+  + 3.1 Análisis de Fourier para excitación periódica.
+  + 3.2 Excitación arbitraria
+  + 3.3 Integral de convolución
+  + 3.4 Respuesta a impactos.
+  + 3.5 Excitación sísmica.
+  + 3.6 Norma de aislamiento sísmico NCh  2745  Of  2003.
