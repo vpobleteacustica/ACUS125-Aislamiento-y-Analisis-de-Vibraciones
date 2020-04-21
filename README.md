@@ -45,3 +45,16 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + 4.7 Matriz modal: autovectores y auto valores 
   + 4.8 Vibración libre y forzada. Matriz de transición de estado. 
   + 4.9 Métodos numéricos para sistemas con múltiples grados de libertad.
+
+### Ambiente de desarrollo y manejo de datos:
+  + **Basado en IPython y Jupyter.** Se desarrollarán las clases y las actividades prácticas en formato Jupyter notebook. Los trabajos para evaluación se entregarán en el mismo formato. Se contestarán las preguntas teóricas y se resolverán los problemas prácticos bajo este mismo ambiente. Se manipularán datos de vibraciones y se visualizarán sus representaciones usando Jupyter y librerías de Python tales como matplotlib, numpy, pandas y scipy.
+  
+### Evaluaciones parciales:
+  + **Tarea 1 (T1) de procedimiento teórico-práctico (25%):** Entrega martes 12 de Mayo de 2020. 
+Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 1.
+  + **Tarea 2 (T2) de procedimiento teórico-práctico (25%):** Entrega martes 2 de Junio de 2020. 
+Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 2. 
+  + **Tarea 3 (T3) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
+Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 3.
+  + **Tarea 4 (T4) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
+Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 4.   
