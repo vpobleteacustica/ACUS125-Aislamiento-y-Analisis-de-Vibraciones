@@ -11,6 +11,7 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl 
 ### Contenidos
 * **Unidad 1:** Vibraciones en sistemas de un grado de libertad.
+
   + 1.1 Modelo de parámetros concentrados de vibración.
   + 1.2 Aproximaciones lineales, estabilidad, frecuencias naturales de vibración.
   + 1.3 Ecuaciones de movimiento: métodos energéticos. Ecuaciones de Euler-Lagrange.
