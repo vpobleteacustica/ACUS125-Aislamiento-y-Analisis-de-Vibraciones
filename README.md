@@ -75,3 +75,10 @@ Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde resp
 >> - Tongue, B. H., Principles of Vibration, Oxford Univ. Press, Oxford, 1996.
 >> - Shabana, A. A., Vibration of Discrete and Continuous Systems, Springer, New York, 1997.  
 
+### Software, Librerías y Tutoriales
+  + Lenguaje: <a href="https://docs.python.org/3/" title="Python 3.8.2 documentation">Python 3.8.2 documentation</a> 
+  + Ambiente: <a href="https://ipython.org/" title=" IPython"> IPython</a> <a href="https://jupyter.org/" title=" Jupyter"> Jupyter</a> 
+  + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>, <a href="https://pandas.pydata.org/" title=" Pandas"> Pandas</a>, <a href="https://www.scipy.org/" title=" Scipy"> Scipy</a>
+  + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
+  + Librerías para análisis de audio y música: <a href="https://librosa.github.io/librosa/" title=" LibROSA"> LibROSA</a>
+  + Tutorial introducción para [Markdown](https://daringfireball.net/projects/markdown/) y [GitHub Markdown Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/), [LaTeX](https://www.latex-project.org/)  
