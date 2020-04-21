@@ -34,3 +34,14 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + 3.4 Respuesta a impactos.
   + 3.5 Excitación sísmica.
   + 3.6 Norma de aislamiento sísmico NCh  2745  Of  2003.
+
+* **Unidad 4:** Vibraciones en sistemas con más de un grado de libertad.
+  + 4.1 Absortor dinámico (incluye experiencia práctica)
+  + 4.2 Respuesta libre y forzada (sin/con amortiguamiento).
+  + 4.3 Simetría de las matrices de masa y rigidez.
+  + 4.4 Frecuencias repetidas y modo de cuerpo rígido. 
+  + 4.5 Formas modales y ortogonalidad.
+  + 4.6 Métodos para analizar sistemas vibratorios acoplados 
+  + 4.7 Matriz modal: autovectores y auto valores 
+  + 4.8 Vibración libre y forzada. Matriz de transición de estado. 
+  + 4.9 Métodos numéricos para sistemas con múltiples grados de libertad.
