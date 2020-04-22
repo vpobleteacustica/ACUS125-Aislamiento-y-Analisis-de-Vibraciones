@@ -56,7 +56,7 @@ Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde resp
 Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 2. 
   + **Tarea 3 (T3) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
 Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 3.
-  + **Tarea 4 (T4) de procedimiento teórico-práctico (25%):** Entrega martes 23 de Junio de 2020. 
+  + **Tarea 4 (T4) de procedimiento teórico-práctico (25%):** Entrega martes 07 de Julio de 2020. 
 Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 4.
 
 ### Requisitos de aprobación:
