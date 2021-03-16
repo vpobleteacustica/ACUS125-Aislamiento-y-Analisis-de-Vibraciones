@@ -17,10 +17,9 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + 1.3 Ecuaciones de movimiento: métodos energéticos. Ecuaciones de Euler-Lagrange.
   + 1.4 Vibraciones libres de sistemas de un grado de libertad.
   + 1.5 Sistemas conservativos y no conservativos.
-  + 1.6 Sistemas con amortiguamiento viscoso: casos: crítico, sub amortiguado y sobre amortiguado.
-
+  
 * **Unidad 2:** Vibraciones forzadas en sistemas de un grado de libertad.
-  + 2.1 Medidas de vibraciones e instrumentación (incluye experiencia práctica).
+  + 2.1 Sistemas con amortiguamiento viscoso: casos: crítico, sub amortiguado y sobre amortiguado.
   + 2.2 Obtención de funciones de transferencia usando las propiedades de la transformada de Fourier. Respuesta en frecuencia.
   + 2.3 Movimiento excitado armónicamente.
   + 2.4 Resonancias. 
